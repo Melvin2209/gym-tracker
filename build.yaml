@@ -1,0 +1,8 @@
+targets:
+  $default:
+    builders:
+      drift_dev:
+        options:
+          # Millisecond precision and correct ordering across time zones, which
+          # last-write-wins sync relies on.
+          store_date_time_values_as_text: true
