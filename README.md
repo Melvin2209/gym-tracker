@@ -7,7 +7,7 @@
 **An offline-first strength training log for Android, built with Flutter.**
 Plan programs, log sets in a couple of taps, rest with a timer that pings you, and watch your lifts go up.
 
-[![CI](https://github.com/OWNER/gym-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/gym-tracker/actions/workflows/ci.yml)
+[![CI](https://github.com/Melvin2209/gym-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/Melvin2209/gym-tracker/actions/workflows/ci.yml)
 ![Flutter](https://img.shields.io/badge/Flutter-3.47-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.13-0175C2?logo=dart)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -109,7 +109,7 @@ The pull cursor is a Firestore **server timestamp**, not a device clock. A chang
 Requirements: Flutter 3.47+ (Dart 3.13), and Android SDK 23+ to run on a device.
 
 ```sh
-git clone https://github.com/OWNER/gym-tracker.git
+git clone https://github.com/Melvin2209/gym-tracker.git
 cd gym-tracker
 flutter pub get
 flutter run            # on an Android device or emulator
